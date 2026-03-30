@@ -1,5 +1,5 @@
 # Привет, я Andrey! 👋
-### Quantum Engineer & Physics Enthusiast
+### Квантовый инженер & Physics Enthusiast
 
 - 🔬 Изучаю: Квантовые вычисления и квантовую оптику.
 - 🛠 Стек: Python (Qiskit, PennyLane), C++, LaTeX.
