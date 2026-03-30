@@ -38,7 +38,7 @@ $$E_0 \le \langle \psi(\theta) | H | \psi(\theta) \rangle$$
 
 ### График сходимости (Convergence Plot)
 *(Сюда вставьте скриншот графика из вашего Jupyter Notebook)*
-`![Convergence Curve](./results/convergence_plot.png)`
+![VQE Convergence](vqe_convergence.png)
 
 ## 🚀 Как запустить
 1. Клонируйте репозиторий:
