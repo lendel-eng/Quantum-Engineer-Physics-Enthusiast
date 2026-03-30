@@ -1,4 +1,4 @@
-# Привет, я Lendel! 👋
+# Привет, я Andrey! 👋
 ### Quantum Engineer & Physics Enthusiast
 
 - 🔬 Изучаю: Квантовые вычисления и квантовую оптику.
