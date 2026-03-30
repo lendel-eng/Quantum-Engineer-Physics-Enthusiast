@@ -37,7 +37,6 @@ $$E_0 \le \langle \psi(\theta) | H | \psi(\theta) \rangle$$
 2. **Устойчивость к шуму:** Проведено сравнение работы алгоритма на симуляторе `AER` и с моделью шума процессора `ibm_brisbane`.
 
 ### График сходимости (Convergence Plot)
-*(Сюда вставьте скриншот графика из вашего Jupyter Notebook)*
 ![VQE Convergence](vqe_convergence.png)
 
 ## 🚀 Как запустить
